@@ -1,5 +1,5 @@
 
-### 🎊 MULTI INSTALADOR DE SCRIPTS FREE SIN KEYS Y CODIGO OPEN
+  Bbbb
 ------------------------------------------------------------------
 <p dir="auto"><img src="https://raw.githubusercontent.com/NetVPS/Multi-Script/main/SCREEN-ALL/multi.PNG" alt="" width="500" height="408" /></p>
 <p dir="auto" style="text-align: center;"><strong>MULTI SCRIPT</strong></p>
@@ -17,14 +17,4 @@
  SCRIPT ChumoGH 5.6U --------- |  17-01-23          
  SCRIPT LATAM 2.0 ------------ |  13-02-23          
  
- ❗ Cualquier error avisar en el Grupo TG          
-------------------------------------------------------------------       
-
-GRUPO DE TELEGRAM: https://t.me/+HyiGQFE3BhZhZmMx
-
-------------------------------------------------------------------
-😋 SE AGRADECE CUALQUIER DONACION       
-BTC
-```3M8zaTvkVYkz87jeDmpAMBCiQsRrKff3qk```    
-LTC
-```MA8nZyyQbMY3MRhZ7Qka6wEMjkGR6zjha1```   
+    
